@@ -9,7 +9,6 @@ While creating the dashboard, the following concepts and Power BI techniques wer
 Data Cleaning & Modeling
 
 Imported multiple CSV files (customer.csv, cust_add.csv, credit_card.csv, cc_add.csv).
-
 Established relationships between customer, transaction, and demographic tables.
 
 DAX Measures
